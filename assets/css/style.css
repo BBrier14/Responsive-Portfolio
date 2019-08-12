@@ -197,6 +197,11 @@ body {
     background: #fff;
     border: 1px solid #ddd;
   }
+
+  .auth-image {
+      height: 250px;
+      width: 250px;
+  }
   
   /* contact page */
   
