@@ -248,6 +248,11 @@ body {
       width: 250px;
   }
 
+  #me {
+      float: left;
+      margin-right: 5px;
+  }
+
   @media screen and (max-width: 640px) {
 
     #masthead {
@@ -274,7 +279,10 @@ nav {
     text-align: center
 }
 
-
+#me {
+    width: 100%;
+    text-align: center;
+}
 
 
 
