@@ -253,6 +253,11 @@ body {
       margin-right: 5px;
   }
 
+  .work {
+      float: left;
+      margin-left: 25px;
+  }
+
   @media screen and (max-width: 640px) {
 
     #masthead {
