@@ -249,6 +249,12 @@ body {
   }
 
   @media screen and (max-width: 640px) {
+
+    #masthead {
+       position: relative;
+       margin-bottom: -100px;
+    }
+
 #logo {
     width: 100%;
     height: 65px;
@@ -281,6 +287,16 @@ nav {
     width: 90%;
 }
 
+
+
+
+  }
+
+  @media screen and (max-width: 980px) {
+
+    #main-container {
+        width: 90%;
+    }
 
 
 
